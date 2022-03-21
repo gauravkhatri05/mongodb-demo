@@ -1,0 +1,4 @@
+spring:
+  data:
+    mongodb:
+      uri: mongodb+srv://root:[password]@[project-name].dnf4k.mongodb.net/spring-boot-demo?retryWrites=true&w=majority
